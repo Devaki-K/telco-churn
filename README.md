@@ -57,5 +57,7 @@ Machine learning project
     └── plots.py                <- Code to create visualizations
 ```
 
+#testing GIT for lab
+
 --------
 
